@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FluxMedia<br>🤝 I’m looking for help with finding and fixing bugs in Fluxmedia-py<br>🌱 I’m currently learning Python<br>⚡ Fun fact I am a Student
+🔭 I’m currently working on FluxMedia<br>🤝 I’m looking for help with finding and fixing bugs in Fluxmedia and Linux-For-Android<br>🌱 I’m currently learning Python<br>⚡ Fun fact I am a Student
 
 
 ## 🌐 Socials:
