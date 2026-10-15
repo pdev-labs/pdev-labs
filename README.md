@@ -13,14 +13,11 @@
 
 ## 🚀 Featured projects
 
-| Project | What it does | Guide |
-|---|---|---|
-| [Linux-For-Android](https://github.com/pdev-labs/Linux-For-Android) | One-command installer for Ubuntu, Debian, Arch, Fedora, and Void on Android via Termux (VirGL 3D, SSH, portable exports) | [Read](https://docs.pdevlabs.me/linux-for-android) |
-| [Lazy-ESP32](https://github.com/pdev-labs/Lazy-ESP32) | Zero-config Python toolkit for ESP32 flashing, partitions, and web assets | [Read](https://docs.pdevlabs.me/lazy-esp32) |
-| [FluxMedia](https://github.com/pdev-labs/FluxMedia) | PyPI package with LAN QR-share portal, media player, and watch parties | [Read](https://docs.pdevlabs.me/fluxmedia) |
-| [NanoNAS-S3](https://github.com/pdev-labs/NanoNAS-S3) | NAS firmware for ESP32-S3 with Material UI and chunked copying | [Read](https://docs.pdevlabs.me/nanonas-s3) |
+<a href="https://github.com/pdev-labs/Linux-For-Android"><img src="'+base+'Linux-For-Android" width="49%" alt="Linux-For-Android" /></a> <a href="https://github.com/pdev-labs/Lazy-ESP32"><img src="'+base+'Lazy-ESP32" width="49%" alt="Lazy-ESP32" /></a>
 
-[All guides →](https://docs.pdevlabs.me) · [All repos →](https://github.com/pdev-labs?tab=repositories)
+<a href="https://github.com/pdev-labs/FluxMedia"><img src="'+base+'FluxMedia" width="49%" alt="FluxMedia" /></a> <a href="https://github.com/pdev-labs/NanoNAS-S3"><img src="'+base+'NanoNAS-S3" width="49%" alt="NanoNAS-S3" /></a>
+
+[Install guides for all four →](https://docs.pdevlabs.me) · [All repos →](https://github.com/pdev-labs?tab=repositories)
 
 ## 🛠️ Tech stack
 
