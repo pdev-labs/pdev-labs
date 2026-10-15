@@ -9,7 +9,7 @@
 
 ## 🌐 Socials
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-pdevlabs.me-3B2DFF?logo=google-chrome&logoColor=white)](https://www.pdevlabs.me) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdev.labs@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pdev_labs) [![Docs](https://img.shields.io/badge/Docs-pdevlabs.me-1f2328?logo=gitbook&logoColor=white)](https://docs.pdevlabs.me)
+**[Portfolio](https://www.pdevlabs.me)** · **[Docs](https://docs.pdevlabs.me)** · **[Email](mailto:pdev.labs@gmail.com)** · **[Instagram](https://instagram.com/pdev_labs)**
 
 ## 🚀 Featured projects
 
