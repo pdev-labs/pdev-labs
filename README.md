@@ -13,9 +13,9 @@
 
 ## 🚀 Featured projects
 
-<a href="https://github.com/pdev-labs/Linux-For-Android"><img src="'+base+'Linux-For-Android" width="49%" alt="Linux-For-Android" /></a> <a href="https://github.com/pdev-labs/Lazy-ESP32"><img src="'+base+'Lazy-ESP32" width="49%" alt="Lazy-ESP32" /></a>
+<a href="https://github.com/pdev-labs/Linux-For-Android"><img src="https://github-readme-stats.shion.dev/api/pin/?username=pdev-labs&theme=dark&hide_border=true&repo=Linux-For-Android" width="49%" alt="Linux-For-Android" /></a> <a href="https://github.com/pdev-labs/Lazy-ESP32"><img src="https://github-readme-stats.shion.dev/api/pin/?username=pdev-labs&theme=dark&hide_border=true&repo=Lazy-ESP32" width="49%" alt="Lazy-ESP32" /></a>
 
-<a href="https://github.com/pdev-labs/FluxMedia"><img src="'+base+'FluxMedia" width="49%" alt="FluxMedia" /></a> <a href="https://github.com/pdev-labs/NanoNAS-S3"><img src="'+base+'NanoNAS-S3" width="49%" alt="NanoNAS-S3" /></a>
+<a href="https://github.com/pdev-labs/FluxMedia"><img src="https://github-readme-stats.shion.dev/api/pin/?username=pdev-labs&theme=dark&hide_border=true&repo=FluxMedia" width="49%" alt="FluxMedia" /></a> <a href="https://github.com/pdev-labs/NanoNAS-S3"><img src="https://github-readme-stats.shion.dev/api/pin/?username=pdev-labs&theme=dark&hide_border=true&repo=NanoNAS-S3" width="49%" alt="NanoNAS-S3" /></a>
 
 [Install guides for all four →](https://docs.pdevlabs.me) · [All repos →](https://github.com/pdev-labs?tab=repositories)
 
