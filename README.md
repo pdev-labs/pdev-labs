@@ -9,14 +9,16 @@
 
 ## 🌐 Socials
 
-**[Portfolio](https://www.pdevlabs.me)** · **[Docs](https://docs.pdevlabs.me)** · **[Email](mailto:pdev.labs@gmail.com)** · **[Instagram](https://instagram.com/pdev_labs)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-pdevlabs.me-3B2DFF?logo=google-chrome&logoColor=white)](https://www.pdevlabs.me) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdev.labs@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pdev_labs) [![Docs](https://img.shields.io/badge/Docs-pdevlabs.me-1f2328?logo=gitbook&logoColor=white)](https://docs.pdevlabs.me)
 
 ## 🚀 Featured projects
 
-- **[Linux-For-Android](https://github.com/pdev-labs/Linux-For-Android)** — one-command installer for Ubuntu, Debian, Arch, Fedora, and Void on Android via Termux, with VirGL 3D, SSH, and portable exports. [Guide](https://docs.pdevlabs.me/linux-for-android)
-- **[Lazy-ESP32](https://github.com/pdev-labs/Lazy-ESP32)** — zero-config Python toolkit wrapping arduino-cli and esptool: USB/OTA flash, partition manager, web-asset converter. [Guide](https://docs.pdevlabs.me/lazy-esp32)
-- **[FluxMedia](https://github.com/pdev-labs/FluxMedia)** — PyPI package with LAN QR-share portal, media player, and watch parties. [Guide](https://docs.pdevlabs.me/fluxmedia)
-- **[NanoNAS-S3](https://github.com/pdev-labs/NanoNAS-S3)** — high-performance NAS firmware for ESP32-S3 with Material UI and chunked copying. [Guide](https://docs.pdevlabs.me/nanonas-s3)
+| Project | What it does | Guide |
+|---|---|---|
+| [Linux-For-Android](https://github.com/pdev-labs/Linux-For-Android) | One-command installer for Ubuntu, Debian, Arch, Fedora, and Void on Android via Termux (VirGL 3D, SSH, portable exports) | [Read](https://docs.pdevlabs.me/linux-for-android) |
+| [Lazy-ESP32](https://github.com/pdev-labs/Lazy-ESP32) | Zero-config Python toolkit for ESP32 flashing, partitions, and web assets | [Read](https://docs.pdevlabs.me/lazy-esp32) |
+| [FluxMedia](https://github.com/pdev-labs/FluxMedia) | PyPI package with LAN QR-share portal, media player, and watch parties | [Read](https://docs.pdevlabs.me/fluxmedia) |
+| [NanoNAS-S3](https://github.com/pdev-labs/NanoNAS-S3) | NAS firmware for ESP32-S3 with Material UI and chunked copying | [Read](https://docs.pdevlabs.me/nanonas-s3) |
 
 [All guides →](https://docs.pdevlabs.me) · [All repos →](https://github.com/pdev-labs?tab=repositories)
 
